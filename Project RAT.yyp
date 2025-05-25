@@ -29,6 +29,7 @@
   "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[
     {"$GMIncludedFile":"","%Name":"Joao-ratazana.png","CopyToMask":-1,"filePath":"datafiles/sprites","name":"Joao-ratazana.png","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+    {"$GMIncludedFile":"","%Name":"Rato_1.png","CopyToMask":-1,"filePath":"datafiles/sprites","name":"Rato_1.png","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
   ],
   "isEcma":false,
   "LibraryEmitters":[],
@@ -37,6 +38,7 @@
   },
   "name":"Project RAT",
   "resources":[
+    {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},},
     {"id":{"name":"oJoaoRatazana","path":"objects/oJoaoRatazana/oJoaoRatazana.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"sJoaoRatazana","path":"sprites/sJoaoRatazana/sJoaoRatazana.yy",},},
