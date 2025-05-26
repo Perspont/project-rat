@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sJoaoRatazana",
-    "path":"sprites/sJoaoRatazana/sJoaoRatazana.yy",
+    "name":"sCarlosRatazana",
+    "path":"sprites/sCarlosRatazana/sCarlosRatazana.yy",
   },
   "spriteMaskId":null,
   "visible":true,

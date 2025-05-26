@@ -1,11 +1,11 @@
 {
   "$GMSprite":"",
-  "%Name":"sJoaoRatazana",
-  "bboxMode":1,
-  "bbox_bottom":23,
-  "bbox_left":0,
-  "bbox_right":23,
-  "bbox_top":0,
+  "%Name":"sCarlosRatazana",
+  "bboxMode":2,
+  "bbox_bottom":20,
+  "bbox_left":6,
+  "bbox_right":15,
+  "bbox_top":4,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
@@ -21,7 +21,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"111db9ee-25fb-486d-a230-21352988e5a2","blendMode":0,"displayName":"default","isLocked":false,"name":"111db9ee-25fb-486d-a230-21352988e5a2","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"sJoaoRatazana",
+  "name":"sCarlosRatazana",
   "nineSlice":{
     "$GMNineSliceData":"",
     "bottom":0,
@@ -52,7 +52,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"sJoaoRatazana",
+    "%Name":"sCarlosRatazana",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -76,7 +76,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"sJoaoRatazana",
+    "name":"sCarlosRatazana",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -90,7 +90,7 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"95f2c7dd-e842-4a16-adc9-fd84256bfa53","path":"sprites/sJoaoRatazana/sJoaoRatazana.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"95f2c7dd-e842-4a16-adc9-fd84256bfa53","path":"sprites/sCarlosRatazana/sCarlosRatazana.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"217cad96-f060-42d6-8f81-85ecb68cbafe","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
