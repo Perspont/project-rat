@@ -1,9 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"oAnaRatazana",
-  "eventList":[],
+  "%Name":"oCarlosRatazana",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"oAnaRatazana",
+  "name":"oCarlosRatazana",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -17,23 +19,25 @@
   "physicsGroup":1,
   "physicsKinematic":false,
   "physicsLinearDamping":0.1,
-  "physicsObject":false,
+  "physicsObject":true,
   "physicsRestitution":0.1,
   "physicsSensor":false,
   "physicsShape":1,
-  "physicsShapePoints":[],
+  "physicsShapePoints":[
+    {"x":0.0,"y":0.0,},
+    {"x":24.0,"y":0.0,},
+    {"x":24.0,"y":24.0,},
+    {"x":0.0,"y":24.0,},
+  ],
   "physicsStartAwake":true,
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
-    "name":"sAnaRatazana",
-    "path":"sprites/sAnaRatazana/sAnaRatazana.yy",
+    "name":"sCarlosRatazana",
+    "path":"sprites/sCarlosRatazana/sCarlosRatazana.yy",
   },
   "spriteMaskId":null,
-  "tags":[
-    "Character",
-  ],
   "visible":true,
 }
