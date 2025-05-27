@@ -64,11 +64,41 @@ else
 }
 
 //Guarda colisão com oColisaoDeTransição. 
-var portal = instance_place(x, y, oColisaoDeTransicao);
+var portal1 = instance_place(x, y, oTransicao1);
+var portal2 = instance_place(x, y, oTransicao2);
+var portal3 = instance_place(x, y, oTransicao3);
+var portal4 = instance_place(x, y, oTransicao4);
+var portal5 = instance_place(x, y, oTransicao5);
+var portal6 = instance_place(x, y, oTransicao6);
+var portal7 = instance_place(x, y, oTransicao7);
 
 //Leva Ratazana pra outra cena no momento da colisão
-if portal{
+if portal1{
     room_goto(cFase1_2);
+}
+
+else if portal2{
+    room_goto(cFase1_3);
+}
+
+else if portal3{
+	room_goto(cFase2_1);
+}
+
+else if portal4{
+	room_goto(cFase2_2)
+}
+
+else if portal5{
+	room_goto(cFase3_1)
+}
+
+else if portal6{
+	room_goto(cFase3_2)
+}
+
+else if portal7{
+	room_goto(cFase1_1)
 }
 
 //if instance_exists(oRatoMaligno){
