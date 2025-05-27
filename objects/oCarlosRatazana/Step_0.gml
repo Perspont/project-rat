@@ -74,9 +74,9 @@ if portal{
 //if instance_exists(oRatoMaligno){
 //  if y > y.oRatoMaligno{
 //	  depth = 1
-//  }
-//  else{
-//	 depth = 2
+// }
+//   else{
+//	   depth = 2
 //  }
 //}
 
