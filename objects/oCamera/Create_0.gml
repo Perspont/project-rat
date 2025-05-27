@@ -23,4 +23,4 @@ var show = true
 
 window_set_size(display_get_width() , 0.98*display_get_height())
 window_set_position(0,  0.025*display_get_height())
-window_set_caption("Rato")
+window_set_caption("Ratazana")
